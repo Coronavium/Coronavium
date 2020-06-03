@@ -1,9 +1,9 @@
-Building Environment
+Building Coronavium
 
-See doc/readme-qt.rst for instructions on building Environment QT,
+See doc/readme-qt.rst for instructions on building Coronavium QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Environment.
+implementation of Coronavium.
 
-See doc/build-*.txt for instructions on building environmentd,
+See doc/build-*.txt for instructions on building coronaviumd,
 the intended-for-services, no-graphical-interface, reference
-implementation of Environment.
+implementation of Coronavium.
